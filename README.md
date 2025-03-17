@@ -1,8 +1,7 @@
 ## EX9: Preprocessing on Twitter Data using Rapidminer
 
-
-### DATE: 24:08:2024
-
+### DATE: 15/03/2025
+### REG : 212222040147
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 
 
